@@ -1,4 +1,6 @@
-let companyName = 'Scuber';
-companyName == Scuber;
- let mostProfitableNeighborhood = chelsea;
+
+const companyName = "Scuber";
+ let mostProfitableNeighborhood = 'Chelsea';
 let companyCeo = 'Susan Smith';
+
+
